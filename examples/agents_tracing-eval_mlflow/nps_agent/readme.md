@@ -38,10 +38,4 @@ User Query → LlamaStack → MCP Server → NPS API
    ```
 
 4. **Run the notebook**
-   Open `nps_agent.ipynb` and run all cells
-
-5. **View traces in MLflow UI**
-   ```bash
-   mlflow ui --port 5001
-   ```
-   Then open http://localhost:5001
+   Open `nps_agent.ipynb` and run all cells. Follow the instructions in the notebook to view the results in the MLflow UI.

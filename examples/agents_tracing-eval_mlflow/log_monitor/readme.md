@@ -43,11 +43,5 @@ Log Message → Classify → Diagnose → Assess Severity → Route Action
    ```
 
 3. **Run the notebook**
-   Open `log_monitor_agent.ipynb` and run all cells
-
-4. **View traces in MLflow UI**
-   ```bash
-   mlflow ui --port 5001
-   ```
-   Then open http://localhost:5001
+   Open `log_monitor_agent.ipynb` and run all cells. Follow the instructions in the notebook to view the results in the MLflow UI.
 
